@@ -19,7 +19,7 @@ B)The call will be forwarded to my personal number (I am using myself as an agen
 
 C)The voicemail recording  calls are save into a dropbox account doing the communication via dropboxApp, after that i get the temporary link to download the file of record from the dropbox api  and that link are send how sms to the caller.
 
-D)To see the call history you can enter the route: https://443a-190-192-244-155.sa.ngrok.io/cdr which will show you a list of all calls (mini cdr) and if you make new calls you will be able to see them reflected there (refresh the page). This is under a mysql database on my localhost which communicates with Laravel through the mvc model.
+D)To see the call history you can enter the route: https://3ce1-190-192-244-155.sa.ngrok.io/cdr which will show you a list of all calls (mini cdr) and if you make new calls you will be able to see them reflected there (refresh the page). This is under a mysql database on my localhost which communicates with Laravel through the mvc model.
 
 
 If you have any question please let me know
